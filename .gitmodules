@@ -1,0 +1,15 @@
+[submodule "Android-Security"]
+	path = Android-Security
+	url = https://github.com/KVNuhman/Android-Security.git
+[submodule "Secure-Systems-Engineering"]
+	path = Secure-Systems-Engineering
+	url = https://github.com/KVNuhman/Secure-Systems-Engineering.git
+[submodule "cybersecurity-tools"]
+	path = cybersecurity-tools
+	url = https://github.com/KVNuhman/cybersecurity-tools.git
+[submodule "Steganography"]
+	path = Steganography
+	url = https://github.com/KVNuhman/Steganography.git
+[submodule "networking"]
+	path = networking
+	url = https://github.com/KVNuhman/networking.git
